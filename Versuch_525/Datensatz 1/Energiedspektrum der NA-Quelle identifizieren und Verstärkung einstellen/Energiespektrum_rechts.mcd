@@ -1,0 +1,50 @@
+REPORT-FILE from 08/16/2011 19:18:03.093 - 19:20:27.515  written 08/16/2011 19:21:10
+REALTIME: 144.439     
+TOTALSUM: 116033      
+ROISUM: 116033      
+MAXVAL: 184         
+LIVETIME: 144.165     
+cmline0=08/16/2011 19:18:03.093 - 19:20:27.515 
+range=8192
+prena=0
+mcsmode=4
+roimin=0
+roimax=8192
+rtpreset=600.000     
+ltpreset=600.000     
+evpreset=20          
+swpreset=1           
+rampmode=0
+rampstart=1024
+rampstep=1
+rampbin=1
+ramplen=1024
+qdacuse=0
+qdac=2048
+dac1use=0
+dac1val=0
+impsel=f
+thrstart=1716
+thr1=1716
+thr2=1716
+thrclk=2482
+diguse=8
+digval=0
+cycles=128
+sequences=1
+mempart=0
+dwelltime=3
+dwellunit=0
+syncout=909
+histlen=0
+autoinc=0 
+;datname=C:\Dokumente und Einstellungen\Praktikum\Eigene Dateien\Beta 103\datensätze\Energiespektrum_rechts.mcd
+savedata=0
+fmt=txt
+smoothpts=5 
+caluse=1 
+caloff=0.000000
+calfact=1.000000
+calfact2=0
+calfact3=0
+calunit=cd
