@@ -1,4 +1,4 @@
-# Praktikum V Public Repository
+# Praktikum V Kern und Teilchenphysik - Universität Bonn
 Programme zur Auswertung und genommene Datensätze zum "Praktikum V: Kern und Teilchenphysik" für folgende Versuche:
 
 [515: Driftkammern](https://github.com/dschuechter/PraktikumVPublic/tree/master/Versuch_515)
